@@ -1,4 +1,4 @@
-Documentação da Arquitetura Andes-Lib
+Documentação Andes-Lib
 
 Andes-Lib é uma biblioteca TypeScript projetada para auxiliar no desenvolvimento de aplicações Andes. Ela fornece um framework abrangente para modelagem de projetos, geração de código e criação de documentação. A biblioteca é baseada em três metodologias principais: ANDES (requisitos e análise), SPARK (modelagem de domínio) e MADE (gestão de projetos).
 
